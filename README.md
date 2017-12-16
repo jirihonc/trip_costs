@@ -1,6 +1,6 @@
 # trip_costs
 a form that calculates trip costs by the distance, number of people and a car's fuel consumption <br/>
-<a target="_bank" href="https://trip-costs.herokuapp.com/">Available at heroku</a>
+Online app available at <a target="_blank" href="https://trip-costs.herokuapp.com/">heroku</a>
 
 <h3>INSTALL modules:</h3>
 
